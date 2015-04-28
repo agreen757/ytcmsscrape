@@ -1,0 +1,14 @@
+{
+  "name": "scraping",
+  "version": "0.0.0",
+  "description": "trying to scrape cms",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "A.G.",
+  "license": "ISC",
+  "dependencies": {
+    "spooky": "^0.2.5"
+  }
+}
